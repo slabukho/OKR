@@ -1,56 +1,56 @@
 [
   {
     "startLocation": {
-      "description": "Miami, USA",
+      "description": "Мукачеве, Україна",
       "type": "Point",
-      "coordinates": [-80.185942, 25.774772],
+      "coordinates": [22.691042, 48.441737],
       "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
     },
     "ratingsAverage": 4.8,
     "ratingsQuantity": 6,
-    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "images":  ["tour-2-2.png","tour-2-1.jpeg", "tour-2-3.jpeg"],
     "startDates": [
       "2021-06-19T09:00:00.000Z",
       "2021-07-20T09:00:00.000Z",
       "2021-08-18T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2955",
-    "name": "The Sea Explorer",
+    "name": "Екскурсія Карпатами",
     "duration": 7,
     "maxGroupSize": 15,
     "difficulty": "medium",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
     "price": 497,
-    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
-    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "summary": "Подорожуйте вглиб Карпат та відкрийте для себе їх природні краси та культурний спадок.",
+    "description": "Відправтеся в неймовірну подорож через гори, насолоджуючись величними пейзажами та знайомлячись з українською культурою.",
     "imageCover": "tour-2-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2959",
-        "description": "Lummus Park Beach",
+        "description": "Мукачево, Карпати, Україна",
         "type": "Point",
-        "coordinates": [-80.128473, 25.781842],
+        "coordinates": [22.708, 48.440],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2958",
-        "description": "Islamorada",
+        "description": "Синевирське озеро, Карпати, Україна\"",
         "type": "Point",
-        "coordinates": [-80.647885, 24.909047],
+        "coordinates": [23.688, 48.683],
         "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c2957",
-        "description": "Sombrero Beach",
+        "description": "Буковель, Карпати, Україна",
         "type": "Point",
-        "coordinates": [-81.0784, 24.707496],
+        "coordinates": [24.400, 48.351],
         "day": 3
       },
       {
         "_id": "5c88fa8cf4afda39709c2956",
-        "description": "West Key",
+        "description": "Яремче, Карпати, Україна\"",
         "type": "Point",
-        "coordinates": [-81.768719, 24.552242],
+        "coordinates": [24.551, 48.444],
         "day": 5
       }
     ]
